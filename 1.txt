@@ -9,3 +9,8 @@ Summary : state and logic in functions
 Zustand : it is a lightweight state management library that provides a simple global store .components can use the state they need improving performance
 Summary : lightweight global state management library
 
+React Router : It is a library for React that enables navigation between different pages or views in a single-page application it connects url to components without reloading the page 
+Summary : Handles navigation and routing in React single-page applications efficiently
+
+Global State : Global state is data that can be accessed and shared across multiple components in an application Instead of passing data through props at every level global state management allow components to read and update shared data
+Summary : Shared application data accessible by multiple components without props
