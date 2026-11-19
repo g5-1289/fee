@@ -1,0 +1,11 @@
+CSS : it is a stylesheet language used to change the appearance and layout of web pages
+      it allows users to define colors,fonts,spacing,position and responsive layouts 
+      it improves maintainability and user experience across websites 
+Summary : it syles web pages,controls layout,colors,fonts and designs      
+
+React hooks : they are functions that let users use state,features and other react capabilities inside       functional components  They simplify code and enable reusable logic through custom hooks
+Summary : state and logic in functions
+
+Zustand : it is a lightweight state management library that provides a simple global store .components can use the state they need improving performance
+Summary : lightweight global state management library
+
